@@ -1,0 +1,193 @@
+{
+  "categories": [
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "pictureName": "Brigadeiro",
+          "name": "Brigadeiro",
+          "description": "Chocolate truffle-like sweet",
+          "price": 5.0
+        },
+        {
+          "pictureName": "CremeBrulee",
+          "name": "Crème Brûlée",
+          "description": "Rich custard topped with caramelized sugar",
+          "price": 7.0
+        },
+        {
+          "pictureName": "FruitSalad",
+          "name": "Fruit Salad",
+          "description": "Fresh mix of seasonal fruits",
+          "price": 4.0
+        },
+        {
+          "pictureName": "IceCream",
+          "name": "Ice Cream",
+          "description": "Classic frozen dessert",
+          "price": 3.5
+        },
+        {
+          "pictureName": "Tiramisu",
+          "name": "Tiramisu",
+          "description": "Coffee-flavored Italian dessert",
+          "price": 6.0
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "pictureName": "Cocktail",
+          "name": "Cocktail",
+          "description": "Refreshing mixed drink",
+          "price": 6.0
+        },
+        {
+          "pictureName": "CoconutWater",
+          "name": "Coconut Water",
+          "description": "Naturally hydrating drink",
+          "price": 4.0
+        },
+        {
+          "pictureName": "EspressoMartini",
+          "name": "Espresso Martini",
+          "description": "Cocktail with espresso and vodka",
+          "price": 8.0
+        },
+        {
+          "pictureName": "IcedTea",
+          "name": "Iced Tea",
+          "description": "Cool and refreshing tea",
+          "price": 3.5
+        },
+        {
+          "pictureName": "Martini",
+          "name": "Martini",
+          "description": "Classic gin or vodka martini",
+          "price": 7.0
+        },
+        {
+          "pictureName": "Mocktail",
+          "name": "Mocktail",
+          "description": "Non-alcoholic cocktail",
+          "price": 5.0
+        },
+        {
+          "pictureName": "OrangeJuice",
+          "name": "Orange Juice",
+          "description": "Freshly squeezed orange juice",
+          "price": 3.0
+        }
+      ]
+    },
+    {
+      "name": "Entrees",
+      "items": [
+        {
+          "pictureName": "AvocadoSalad",
+          "name": "Avocado Salad",
+          "description": "Healthy avocado-based salad",
+          "price": 6.5
+        },
+        {
+          "pictureName": "ChickPeaSalad",
+          "name": "Chickpea Salad",
+          "description": "Protein-packed salad",
+          "price": 5.5
+        },
+        {
+          "pictureName": "FrenchFries",
+          "name": "French Fries",
+          "description": "Crispy golden fries",
+          "price": 3.0
+        },
+        {
+          "pictureName": "GardenSalad",
+          "name": "Garden Salad",
+          "description": "Fresh garden veggies",
+          "price": 4.5
+        },
+        {
+          "pictureName": "ItalianPastaSalad",
+          "name": "Pasta Salad",
+          "description": "Pasta with Italian herbs",
+          "price": 5.5
+        },
+        {
+          "pictureName": "LettuceSalad",
+          "name": "Lettuce Salad",
+          "description": "Light and crisp salad",
+          "price": 4.0
+        },
+        {
+          "pictureName": "PastaSalad",
+          "name": "Pasta Salad",
+          "description": "Classic pasta salad",
+          "price": 5.0
+        },
+        {
+          "pictureName": "SmokedSalmonSalad",
+          "name": "Salmon Salad",
+          "description": "Salad with smoked salmon",
+          "price": 8.0
+        },
+        {
+          "pictureName": "SpinachSalad",
+          "name": "Spinach Salad",
+          "description": "Leafy green spinach salad",
+          "price": 5.0
+        },
+        {
+          "pictureName": "TomatoSalad",
+          "name": "Tomato Salad",
+          "description": "Fresh tomatoes with herbs",
+          "price": 4.0
+        }
+      ]
+    },
+    {
+      "name": "Main Dishes",
+      "items": [
+        {
+          "pictureName": "ChickenBreast",
+          "name": "Chicken Breast",
+          "description": "Grilled chicken breast",
+          "price": 10.0
+        },
+        {
+          "pictureName": "ChickenTacos",
+          "name": "Chicken Tacos",
+          "description": "Spicy chicken tacos",
+          "price": 9.0
+        },
+        {
+          "pictureName": "Feijoada",
+          "name": "Feijoada",
+          "description": "Brazilian black bean stew",
+          "price": 12.0
+        },
+        {
+          "pictureName": "LasagnaBolognese",
+          "name": "Lasagna Bolognese",
+          "description": "Classic Italian lasagna",
+          "price": 11.0
+        },
+        {
+          "pictureName": "Pizza",
+          "name": "Pizza",
+          "description": "Stone-baked pizza",
+          "price": 10.0
+        },
+        {
+          "pictureName": "Sushi",
+          "name": "Sushi",
+          "description": "Japanese sushi assortment",
+          "price": 14.0
+        }
+      ]
+    }
+  ]
+}
+
